@@ -15,7 +15,7 @@ BYOWS (Bring your own web server).
 </p>
 <h2>Directions</h2>
 <p>
-You’ll find us right in the center of downtown Webville.
+You’ll find us right in the center of downtown Webville at 3 pm.
 If you need help finding us, check out
 our <a href=”directions.html”>detailed directions</a>.
 Come join us!
