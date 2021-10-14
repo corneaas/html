@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> Our Elixirs </title>
+<title> Our Life Elixirs </title>
 <h1> Our Elixirs </h1>
 </body>
 <h2> Green Tea Cooler </h1>
@@ -10,5 +10,5 @@
 <h2>Blueberry Blis Elixir </h2>
 <p> Blueberries and cherry mixed into a base of ederflowr herb tea will put you in a relaxed state of mind </p>
 <h2>Cranberry Antioxidant Blast </h2>
-<p> Wake up to the flavors of cranberry and hibicus in this vitamin C rich in elixir </p>
+<p> Wake up to the flavors of cranberry and hibicus in this vitamin C rich in elixir  </p>
 </html>
