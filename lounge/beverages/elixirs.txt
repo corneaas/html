@@ -1,0 +1,14 @@
+<html>
+<body>
+<title> Our Elixirs </title>
+<h1> Our Elixirs </h1>
+</body>
+<h2> Green Tea Cooler </h1>
+<p> Chock full of vitamins and minerals </p>
+<h2> Raspberry Ice Concentration </h2>
+<p> Combining Raspberry juice with lemon grass,citrus peel and rosechips, this icy drink will make your mind feel clear and crisp </p>
+<h2>Blueberry Blis Elixir </h2>
+<p> Blueberries and cherry mixed into a base of ederflowr herb tea will put you in a relaxed state of mind </p>
+<h2>Cranberry Antioxidant Blast </h2>
+<p> Wake up to the flavors of cranberry and hibicus in this vitamin C rich in elixir </p>
+</html>
